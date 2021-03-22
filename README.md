@@ -1,2 +1,4 @@
-# W20_STAT520A
-Course project done by Harry &amp; Kenney
+# STAT520A_project
+STAT 520A Project: Harry &amp; Kenny
+
+# [Report](report.pdf)
